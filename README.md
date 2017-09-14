@@ -1,10 +1,12 @@
-> LessPass v1
+# LessPass v1
 
-# Build
+LessPass v1 project archive
+
+## Build
 
     npm run build
 
-# Run
+## Run
 
     npm start
 
